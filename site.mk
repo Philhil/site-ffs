@@ -25,7 +25,9 @@ GLUON_SITE_PACKAGES := \
 	haveged \
 	iptables \
 	iwinfo \
-	ffrn-lowmem-patches \
+	ffs-lowmem-patches \
+	gluon-config-mode-zip \
+	ffs-set-segment	
 
 # add addition network drivers and usb support only to targes where disk space does not matter.
 ifeq ($(GLUON_TARGET),x86-generic)

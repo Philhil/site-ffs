@@ -54,4 +54,23 @@ msgstr ""
 "Viel Spaß mit deinem Knoten und bei der Erkundung von Freifunk!<br /> "
 "<small>Hilf uns weitere Anleitungen, Texte, Grafiken, Applikationen, Schaubilder, und ähnliches zu erstellen die wir hier verlinken können, um jedem neuen Freifunker einen guten Start zu ermöglichen</small>"
 
+msgid "gluon-config-mode:altitude-label"
+msgstr "Höhe"
+ 
+msgid "gluon-config-mode:altitude-help"
+msgstr ""
+"Die Höhenangabe ist optional und sollte nur gesetzt werden, wenn ein "
+"exakter Wert bekannt ist."
 
+msgid "gluon-config-mode:zip-help"
+"Some nice Text about the ZIP-Code "
+"and how it help for subnetting."
+msgstr ""
+"Ein Netter Text warum die PLZ benötigt "
+"wird."
+
+msgid "ZIP-Code"
+msgstr "PLZ"
+
+msgid "e.g. %s"
+msgstr "z.B. %s"
